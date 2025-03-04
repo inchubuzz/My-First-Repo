@@ -6,9 +6,9 @@ Im learning Git and Github for version control.
 
 ## Things Ive learned so far:
 -How to create a Github Repository
--WHat a README file is used for
+-What a README file is used for
 
-## things I will learn: 
+## Things I will learn: 
 -Git commands
 -How to clone and fork
 -git commands on VS code
